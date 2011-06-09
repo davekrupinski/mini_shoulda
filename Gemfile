@@ -2,5 +2,5 @@
 source :rubygems
 
 gem 'rake'
-gem 'minitest', '~> 2.1.0'
+gem 'minitest', '~> 2.2.0'
 
